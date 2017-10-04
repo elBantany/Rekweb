@@ -1,0 +1,20 @@
+{
+  "name": "Rekweb Pertemuan 2",
+  "authors": [
+    "Basyir N ElBantany <accretia.basyir@gmail.com>"
+  ],
+  "description": "REKWEB PERTEMUAN 2 PENGENALAN CI",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
